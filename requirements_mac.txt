@@ -1,0 +1,6 @@
+flask
+requests
+patchright
+solana
+solders
+base58
